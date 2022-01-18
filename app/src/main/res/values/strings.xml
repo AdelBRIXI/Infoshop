@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">InfoShop</string>
+    <string name="todo">TODO</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="join_us">Join Us !</string>
+    <string name="login">LOGIN</string>
+    <string name="need_help">Need Help!</string>
+    <string name="you_are_not_a_member">You are not a member!</string>
+    <string name="register">REGISTER</string>
+    <string name="hello_there">Hello There !</string>
+
+    <string name="err_enter_mail">please enter your email</string>
+    <string name="err_enter_full_name">please enter your full name</string>
+    <string name="err_enter_password">please enter your password</string>
+    <string name="err_enter_confirm_password">please confirm your password</string>
+    <string name="err_password_and_confirm_password_mismatch">your password and confirm password does not match</string>
+    <string name="user_name">Username</string>
+    <string name="user_gmail_com">user@gmail.com</string>
+    <string name="NEXT" />
+    <string name="next">NEXT</string>
+    <string name="first_name" />
+    <string name="last_name" />
+    <string name="phone_number" />
+    <string name="wilaya" />
+    <string name="articles">articles</string>
+    <string name="search_elements">search elements</string>
+    <string name="favorites">favorites</string>
+    <string name="home">home</string>
+    <string name="first_name1">First_name</string>
+    <string name="last_name1">Last_name</string>
+    <string name="_2131">+213</string>
+    <string name="phone_number1">Phone_number</string>
+    <string name="wilaya1">Wilaya</string>
+    <string name="login1">LOGIN</string>
+    <string name="addresse1">Addresse</string>
+    <string name="save">Save</string>
+    <string name="textview">TextView</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="logout">Logout</string>
+    <string name="email_sent_succes">Email sent seccessfully to reset your password</string>
+
+    <string name="submit">Submit</string>
+    <string name="forgetpasword">Forget Password?</string>
+    <string name="enter">Enter your email, we will send you an email to reset your password</string>
+    <string name="prix">Prix</string>
+
+</resources>

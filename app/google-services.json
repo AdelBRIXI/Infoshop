@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292215285782",
+    "firebase_url": "https://project-a7b54-default-rtdb.firebaseio.com",
+    "project_id": "project-a7b54",
+    "storage_bucket": "project-a7b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292215285782:android:5f69a355c3766edeedad37",
+        "android_client_info": {
+          "package_name": "com.example.infoshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292215285782-4japieuv7gt27r58mohqrokc1gorlip0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0q80cDIR7g9TjR-auKgAUN4EHef5loj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292215285782-4japieuv7gt27r58mohqrokc1gorlip0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

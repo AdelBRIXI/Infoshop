@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#253A4E</color>
+    <color name="dark_blue">#253A4E</color>
+    <color name="light_grey">#CBD0D5</color>
+    <color name="red">#F23B5F</color>
+    <color name="black">#000000</color>
+    <color name="grey2">#F3F3FF</color>
+
+    <color name="colorSnackBarSuccess">#8BC34A</color>
+    <color name="colorSnackBarError">#F72400</color>
+
+</resources>
